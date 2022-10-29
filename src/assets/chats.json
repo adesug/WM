@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "id_project": 1,
+        "chats": [
+            {
+                "id": 1,
+                "message": "Hello guys",
+                "is_me": false,
+                "date": "1 minute ago",
+                "sender": {
+                    "id": 2,
+                    "name": "Faqih Zada"
+                }
+            },
+            {
+                "id": 2,
+                "message": "Hello juga",
+                "is_me": true,
+                "date": "1 minute ago",
+                "sender": {
+                    "id": 1,
+                    "name": "Me"
+                }
+            },
+            {
+                "id": 3,
+                "message": "@AdeSug Taks Sudah Ditambahkan",
+                "is_me": false,
+                "date": "just now",
+                "sender": {
+                    "id": 3,
+                    "name": "Ziyan"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "id_project": 2,
+        "chats": [
+            {
+                "id": 1,
+                "message": "Ayo semangat semua",
+                "is_me": false,
+                "date": "2 weeks ago",
+                "sender": {
+                    "id": 2,
+                    "name": "Faqih zada"
+                }
+            },
+            {
+                "id": 2,
+                "message": "Ayo Belajar",
+                "is_me": true,
+                "date": "2 weeks ago",
+                "sender": {
+                    "id": 1,
+                    "name": "Me"
+                }
+            },
+            {
+                "id": 3,
+                "message": "belajar apa ?",
+                "is_me": false,
+                "date": "a weeks ago",
+                "sender": {
+                    "id": 3,
+                    "name": "Ziyan"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "id_project": 3,
+        "chats": [
+            {
+                "id": 1,
+                "message": "Posisimu di mana?",
+                "is_me": false,
+                "date": "2 weeks ago",
+                "sender": {
+                    "id": 2,
+                    "name": "Faqih zada"
+                }
+            },
+            {
+                "id": 2,
+                "message": "di rumah nenek",
+                "is_me": true,
+                "date": "2 weeks ago",
+                "sender": {
+                    "id": 1,
+                    "name": "Me"
+                }
+            },
+            {
+                "id": 3,
+                "message": "rumah",
+                "is_me": false,
+                "date": "a weeks ago",
+                "sender": {
+                    "id": 3,
+                    "name": "Ziyan"
+                }
+            }
+        ]
+    }
+]
